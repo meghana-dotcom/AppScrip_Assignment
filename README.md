@@ -25,3 +25,10 @@ Features
 - Loading indicator .
 - Graceful error handling with retry button.
 - Navigate to a detailed user screen.
+- Animation in detail screen
+
+![Detail screen 1](https://github.com/user-attachments/assets/14f51640-782b-465f-87f0-87734e145897)
+![detail screen](https://github.com/user-attachments/assets/0d3e2cd5-df47-49ba-9657-e32ddcdbf2db)
+![search by name and email](https://github.com/user-attachments/assets/4ed99a62-d3f1-4a22-a5e3-17187dcc78ae)
+![Display user](https://github.com/user-attachments/assets/dd6b3ba9-ebc4-4d6b-8bf3-4c7fa27d9798)
+![pull to refresh and loading indicator](https://github.com/user-attachments/assets/60e6ce92-a6aa-4825-9f66-f7eb6786d3b4)
