@@ -27,6 +27,25 @@ Features
 - Navigate to a detailed user screen.
 - Animation in detail screen
 
+
+How to run the app:-
+
+1.Clone the repository
+   git clone https://github.com/meghana-dotcom/AppScrip_Assignment.git
+   cd AppScrip_Assignment
+
+2.Install dependencies
+  flutter pub get
+
+3.Run the app on emulator or device
+  flutter run
+
+Software Requirements:-
+
+* Flutter SDK installed.
+* Android Studio / VS Code with Flutter & Dart plugins.
+* An Android Emulator / Physical Device.
+
 ![Detail screen 1](https://github.com/user-attachments/assets/14f51640-782b-465f-87f0-87734e145897)
 ![detail screen](https://github.com/user-attachments/assets/0d3e2cd5-df47-49ba-9657-e32ddcdbf2db)
 ![search by name and email](https://github.com/user-attachments/assets/4ed99a62-d3f1-4a22-a5e3-17187dcc78ae)
